@@ -1,11 +1,11 @@
 Sample configuration files for:
 ```
-SystemD: ravend.service
-Upstart: ravend.conf
-OpenRC:  ravend.openrc
-         ravend.openrcconf
-CentOS:  ravend.init
-OS X:    org.raven.ravend.plist
+SystemD: gemmad.service
+Upstart: gemmad.conf
+OpenRC:  gemmad.openrc
+         gemmad.openrcconf
+CentOS:  gemmad.init
+OS X:    org.gemma.gemmad.plist
 ```
 have been made available to assist packagers in creating node packages here.
 
